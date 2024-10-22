@@ -46,9 +46,15 @@ public class Plugin : BasePlugin
     // /// .superstash-example boop 21232
     // /// .superstash-example boop-boop
     // ///</remarks>
-    [Command("superstash-example", description: "Example command from superstash", adminOnly: true)]
-    public void ExampleCommand(ICommandContext ctx, string someString, int num = 5, float num2 = 1.5f)
-    { 
-        ctx.Reply($"You passed in {someString} and {num} and {num2}");
+    // [Command("superstash-example", description: "Example command from superstash", adminOnly: true)]
+    // public void ExampleCommand(ICommandContext ctx, string someString, int num = 5, float num2 = 1.5f)
+    // { 
+    //     ctx.Reply($"You passed in {someString} and {num} and {num2}");
+    // }
+    
+    [Command("foo")]
+    public void Foo(ICommandContext ctx, int count, string orValues  = "with defaults", float someFloat=3f)
+    {
+        ctx.Reply($"You'd do stuff here with your parsed {count} and stuff");
     }
 }

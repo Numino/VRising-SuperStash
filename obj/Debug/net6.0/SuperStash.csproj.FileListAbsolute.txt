@@ -11,3 +11,4 @@ C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.dll
 C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\refint\SuperStash.dll
 C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.pdb
 C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\ref\SuperStash.dll
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.sourcelink.json
