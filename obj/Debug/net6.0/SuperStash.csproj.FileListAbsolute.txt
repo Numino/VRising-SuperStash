@@ -1,0 +1,13 @@
+C:\Code\vrising-superstash\SuperStash\bin\Debug\net6.0\SuperStash.deps.json
+C:\Code\vrising-superstash\SuperStash\bin\Debug\net6.0\SuperStash.dll
+C:\Code\vrising-superstash\SuperStash\bin\Debug\net6.0\SuperStash.pdb
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.csproj.AssemblyReference.cache
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\MyPluginInfo.cs
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.AssemblyInfoInputs.cache
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.AssemblyInfo.cs
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.csproj.CoreCompileInputs.cache
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.dll
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\refint\SuperStash.dll
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\SuperStash.pdb
+C:\Code\vrising-superstash\SuperStash\obj\Debug\net6.0\ref\SuperStash.dll
